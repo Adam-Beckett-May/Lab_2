@@ -1,4 +1,6 @@
 # Lab_2
+#Adam Beckett May (100487239), Robert Kocovski (100536625), Daniel Ola (100523811), Andrew Lau (100522457)
+
 #MyShell Commands
 Welcome to MyShell, the one-stop source for all your file processing needs. It may look like an old-fashioned DOS and a place to get lost, but knowing which commands make it work will make navigating your content a cinch! Here's what you can do and how to do it (these commands are listed alphabetically; enter them exactly as we tell you and press enter to execute them):
 ## cd <directory>
@@ -17,7 +19,3 @@ Need help using MyShell? You know what to do then: use your keyboard and call fo
 When you feel like MyShell is doing too much or not working or just want to panic, entering "pause" will temporarily put MyShell to sleep. To wake it up, hit Enter.
 ## quit
 Done with MyShell? You can always "quit" the program and once you do, boom, you're out of here.
-# Argument list processing
-# Startup and shutdown
-
-# 
